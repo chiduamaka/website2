@@ -1,0 +1,55 @@
+p{
+	text-align: center;
+	color: gray
+}
+h3{
+	text-align: center;
+	color: blue
+}
+a{
+	text-decoration: none;
+	color: gray;
+	line-height: 50pt
+}
+a:hover{
+	color: blue;
+}
+.circle{
+border-radius: 50%
+}
+fieldset{
+	margin: auto;
+	width: 50%;
+	border-radius: 25px;
+	border: 1px solid blue
+}
+input{
+	border-radius: 25px
+}
+input:hover{
+	color: blue
+}
+label{
+	color: gray
+}
+legend{
+	color: gray
+}
+u:hover{
+	color: blue
+}
+.g_f a{
+	font-size: 20px;
+	color: gray;
+}
+nav a{
+	text-decoration: none;
+	color: gray;
+	line-height: 50pt
+}
+nav a:hover{
+	color: blue;
+}
+#link{
+	line-height: 0pt
+}
